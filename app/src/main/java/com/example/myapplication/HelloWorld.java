@@ -1,7 +1,7 @@
 package com.example.myapplication;
 
-public class Zanimo {
+public class HelloWorld {
     public static void main(String[] args){
-        System.out.println ("Hello, World!");
+        System.out.println ("Hello, Android!");
     }
 }
