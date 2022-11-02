@@ -1,6 +1,6 @@
 package com.example.myapplication;
 
-public class Zanimo {
+class Zanimo {
     public static void main(String[] args){
         System.out.println ("Hello, World!");
         System.out.println ("Hello!");
