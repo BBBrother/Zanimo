@@ -25,9 +25,9 @@ public class LesMaxArrays {
         String[][] shahmati = new String[8][8];
         for (int i=0;i<8;i++){
             for (int j=0;j<8;j++){
-                if (i+j%2==0){
+                if ((i+j)%2==0){
                     shahmati[i][j]="w";
-                }else if(i+j%2==1) {
+                }else {
                     shahmati[i][j]="b";
                 }
             }
