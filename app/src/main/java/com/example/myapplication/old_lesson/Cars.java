@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.old_lesson;
 
 public class Cars {
     String marka;

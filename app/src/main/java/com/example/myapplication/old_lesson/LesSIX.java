@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.old_lesson;
 
 public class LesSIX {
     public static void main(String[] args){

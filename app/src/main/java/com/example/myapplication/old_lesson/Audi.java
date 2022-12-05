@@ -1,6 +1,6 @@
-package com.example.myapplication;
+package com.example.myapplication.old_lesson;
 
-public class Audi extends Cars{
+public class Audi extends Cars {
     String model;
 
     public Audi(String marka,String model) {

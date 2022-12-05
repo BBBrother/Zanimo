@@ -1,6 +1,8 @@
-package com.example.myapplication;
+package com.example.myapplication.old_lesson;
 
-public class Cat extends Animal{
+import com.example.myapplication.old_lesson.Animal;
+
+public class Cat extends Animal {
     public Cat(String food, String location) {
         super("korm", "dom");
     }

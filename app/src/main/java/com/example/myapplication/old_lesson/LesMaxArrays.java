@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.old_lesson;
 
 import java.util.Arrays;
 import java.util.Scanner;
