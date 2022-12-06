@@ -49,6 +49,6 @@ public class Practice {
         int y = in.nextInt();
         StringBuilder xx = new StringBuilder();
         xx.append(x).append(" + ").append(y).append(" = ").append(x+y);
-        System.out.println(xx.append(x)+"+"+yy.append(y)+"="+(x+y));
+        System.out.println();
     }
 }
